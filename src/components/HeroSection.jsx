@@ -8,7 +8,7 @@ const HeroSection = () => {
     <div className='relative w-full h-full'>
       <Navbar/>
     <div className='relative sm:bottom-24 sm:right-11 sm:w-[120vw] h-full sm:-rotate-[4deg] -rotate-6 bottom-24 right-10 w-[140vw] bg-[var(--primary-color)] z-10'>
-    <div className='absolute -bottom-12 sm:-bottom-2 w-full h-24 sm:h-14 lg:h-10 bg-black z-50 HeroBand flex text-white'>
+    <div className='absolute -bottom-12 -left-5 sm:-bottom-2 w-full h-24 sm:h-14 lg:h-10 bg-black z-50 HeroBand flex text-white'>
       <div className='w-3/4 sm:w-3/4 lg:w-3/4 flex flex-wrap justify-center sm:justify-around font-WardrumBold relative left-0 sm:left-16 letter-spacing-4 items-center'>
       <div>-</div>
       <div className=' w-3/4 sm:w-1/4 text-center'>Web Development</div>

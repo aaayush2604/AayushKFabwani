@@ -32,8 +32,8 @@ const Footer = () => {
             <div className='bg-[#262727] w-4/5 h-4/5 absolute z-30 left-0'>
             <div className='w-full h-full px-2 py-5 relative flex flex-col justify-center'>
                     <div className='text-[4.5vh]'>Let's Connect</div>
-                    <div className='flex text-[2.5vh]  items-center '><FaPhoneAlt className='mr-4 '/> +91 9617637923</div>
-                    <div className='flex text-[2.5vh] items-center '><BiLogoGmail className='mr-4'/> aayushfabwani2@gmail.com</div>
+                    <div className='flex items-center mb-1'><FaPhoneAlt className='mr-4 size-4 sm:size-6'/> +91 9617637923</div>
+                    <div className='flex items-center mb-1'><BiLogoGmail className='mr-4 size-4 sm:size-6'/> aayushfabwani2@gmail.com</div>
                     <div className='text-[3.5vh]'>Reach Out</div>
                     <div className='flex w-1/4 justify-around items-center'>
                     <a href="https://www.instagram.com/aaayush2604/" target="_blank"><SiInstagram className='size-4 sm:size-6'/></a>
