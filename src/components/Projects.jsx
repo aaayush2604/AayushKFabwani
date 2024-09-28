@@ -17,7 +17,7 @@ const Projects = () => {
                 </div>
         </div>
         <div className='min-h-[50vh] md:h-[60%] w-full flex flex-col md:flex-row justify-around items-center'>
-                <div className='min-h-[30vh] md:h-[90%] w-4/5 md:w-1/4 min-w-[200px] bg-[#1a1b1b] bg-[url("./GupShup.png")] bg-cover bg-center my-5 px-2 flex flex-col justify-end rounded-md hover:bg-[var(--third-color)] hover:border-2 border-black text-white hover:shadow-solid-neon'>
+                <div className='min-h-[30vh] md:h-[90%] w-4/5 md:w-1/4 min-w-[200px] bg-[#1a1b1b] bg-[url("/GupShup.png")] bg-cover bg-center my-5 px-2 flex flex-col justify-end rounded-md hover:bg-[var(--third-color)] hover:border-2 border-black text-white hover:shadow-solid-neon'>
                     <div className='bg-black bg-opacity-50 p-2 w-full h-2/5 flex flex-col justify-between mb-2 rounded-md hover:bg-[var(--third-color)] hover:text-black'>
                             <div>
                             <div className='font-bold'>Real Time Chat Application</div>
@@ -29,7 +29,7 @@ const Projects = () => {
                             </div>
                     </div>
                 </div>
-                <div className='min-h-[30vh] md:h-[90%] w-4/5 md:w-1/4 min-w-[200px] bg-[#1a1b1b] bg-[url("./MealMap.png")] bg-cover bg-center my-5 px-2 flex flex-col justify-end rounded-md hover:bg-[var(--third-color)] hover:border-2 border-black text-white hover:shadow-solid-neon'>
+                <div className='min-h-[30vh] md:h-[90%] w-4/5 md:w-1/4 min-w-[200px] bg-[#1a1b1b] bg-[url("/MealMap.png")] bg-cover bg-center my-5 px-2 flex flex-col justify-end rounded-md hover:bg-[var(--third-color)] hover:border-2 border-black text-white hover:shadow-solid-neon'>
                     <div className='bg-black bg-opacity-50 p-2 w-full h-2/5 flex flex-col justify-between mb-2 rounded-md hover:bg-[var(--third-color)] hover:text-black'>
                             <div>
                             <div className='font-bold'>Meal Map</div>
@@ -41,7 +41,7 @@ const Projects = () => {
                             </div>
                     </div>
                 </div>
-                <div className='min-h-[30vh] md:h-[90%] w-4/5 md:w-1/4 min-w-[200px] bg-[#1a1b1b] bg-[url("./GupShup.png")] bg-cover bg-center my-5 px-2 flex flex-col justify-end rounded-md hover:bg-[var(--third-color)] hover:border-2 border-black text-white hover:shadow-solid-neon'>
+                <div className='min-h-[30vh] md:h-[90%] w-4/5 md:w-1/4 min-w-[200px] bg-[#1a1b1b] bg-[url("/GupShup.png")] bg-cover bg-center my-5 px-2 flex flex-col justify-end rounded-md hover:bg-[var(--third-color)] hover:border-2 border-black text-white hover:shadow-solid-neon'>
                     <div className='bg-black bg-opacity-50 p-2 w-full h-2/5 flex flex-col justify-between mb-2 rounded-md hover:bg-[var(--third-color)] hover:text-black'>
                             <div>
                             <div className='font-bold'>Memory Management in LINUX</div>
