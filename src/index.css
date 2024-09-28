@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --primary-color:#ecfcd5;
+  --second-color:#6858c6;
+  --third-color:#d9fa69;
+  --BG-COLOR:#f5f6f8;
+}
+
+@media(max-width:640px){
+::-webkit-scrollbar {
+  display: none;
+}
+}
+
+@font-face {
+  font-family: 'BonaroOutline'; /* Give your font a name */
+  src: url('./fonts/bonaro.outline.otf') format('opentype'); /* Path to your font file */
+  font-weight: normal; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+@font-face {
+  font-family: 'BungeeOutline'; /* Give your font a name */
+  src: url('./fonts/Bungee_Outline/BungeeOutline-Regular.ttf') format('opentype'); /* Path to your font file */
+  font-weight: normal; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+@font-face {
+  font-family: 'WardrumBoldOutline'; /* Give your font a name */
+  src: url('./fonts/wardrum-expanded-sans-font/Wardrum-BoldOutline.otf') format('opentype'); /* Path to your font file */
+  font-weight: normal; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+@font-face {
+  font-family: 'WardrumBold'; /* Give your font a name */
+  src: url('./fonts/wardrum-expanded-sans-font/Wardrum-Bold.otf') format('opentype'); /* Path to your font file */
+  font-weight: normal; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+@font-face {
+  font-family: 'WardrumRegular'; /* Give your font a name */
+  src: url('./fonts/wardrum-expanded-sans-font/Wardrum-Regular.otf') format('opentype'); /* Path to your font file */
+  font-weight: normal; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+@font-face {
+  font-family: 'FredokaRegular'; /* Give your font a name */
+  src: url('./fonts/Fredoka/Fredoka-VariableFont_wdth,wght.ttf') format('opentype'); /* Path to your font file */
+  font-weight: normal; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+@font-face {
+  font-family: 'Dancing'; /* Give your font a name */
+  src: url('./fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf') format('opentype'); /* Path to your font file */
+  font-weight: normal; /* Adjust as needed */
+  font-style: normal; /* Adjust as needed */
+}
+
+
